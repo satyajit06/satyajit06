@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🌱 I'm currently working on my frontend projects.
-- 👩🏻‍💻 Recent website created for a Gym: [Gym](https://satyajit06.github.io/gymWebsite-UI/)
+- 👩🏻‍💻 Recent website created: [Magic Notes]((https://satyajit06.github.io/notesApp-js/)
 - 👩🏻‍🏫 I swear on writing clean & readable code.
 
 
