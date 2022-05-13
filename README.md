@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I'm currently working on my frontend projects.
-- 👩🏻‍💻 Recent website created: [Magic Notes](https://satyajit06.github.io/notesApp-js/)
+- 🌱 I'm currently learning web development.
 - 👩🏻‍🏫 I swear on writing clean & readable code.
 
 
