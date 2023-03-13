@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🌱 I'm currently learning web development.
-- 👩🏻‍🏫 I swear on writing clean & readable code.
+- Your talent acquiring skills are impressive. I have a feeling you would fancy a nice code talk. Speaking of which, are you available for a chat about a potential job opportunity?
+- jadeja.satyajit.m@gmail.com
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=satyajit06.satyajit06&style=flat-square&color=0088cc)
@@ -13,7 +13,8 @@
 
 
 <!--
-**Monishka11/Monishka11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I'm currently learning web development.
+- 👩🏻‍🏫 I swear on writing clean & readable code.
 
 Here are some ideas to get you started:
 
