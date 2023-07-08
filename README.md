@@ -4,7 +4,7 @@
 - jadeja.satyajit.m@gmail.com
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=satyajit06.satyajit06&style=flat-square&color=0088cc)
+<!--  ![](https://visitor-badge.glitch.me/badge?page_id=satyajit06.satyajit06&style=flat-square&color=0088cc) -->
 
 ![Satyajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyajit06&count_private=true&theme=highcontrast&show_icons=true)
 
