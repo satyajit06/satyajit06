@@ -6,7 +6,7 @@
 
 <!--  ![](https://visitor-badge.glitch.me/badge?page_id=satyajit06.satyajit06&style=flat-square&color=0088cc) -->
 
-![Satyajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyajit06&count_private=true&theme=highcontrast&show_icons=true)
+<!--![Satyajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyajit06&count_private=true&theme=highcontrast&show_icons=true) -->
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
